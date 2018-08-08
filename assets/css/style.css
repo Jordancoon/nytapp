@@ -1,0 +1,13 @@
+.jumbotron {
+    background: url("../images/city5.jpg");
+    background-position: center -50px;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .jumbotron .header {
+      color: white;
+  }
+  
+  .panel-primary>.panel-heading {
+    background-color: #7f0b24;
+  }
